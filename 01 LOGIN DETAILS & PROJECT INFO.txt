@@ -3,8 +3,8 @@
 
 ---Admin Login Details---
 
-Email   : admin@mail.com
-Password: codeastro.com
+Email   : aryhan.nrtea@gmail.com
+Password: vyros4sin
 
 
 Open the project folder, check for the env file and update the database credentials.
